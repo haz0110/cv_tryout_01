@@ -12,6 +12,7 @@
 }
 
 body {
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   text-align: center;
   background-color: oldlace;
@@ -21,9 +22,15 @@ h1 {
   margin: 0;
 }
 
+.imHazarText {
+  font-family: 'The Nautigal', cursive;
+  font-size:6em;
+}
+
 .heading {
   display: inline-block;
   height: 5em;
+  width: 20em;
   margin-top: 2em;
 }
 
