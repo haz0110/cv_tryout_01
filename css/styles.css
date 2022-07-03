@@ -31,19 +31,26 @@ h1 {
   display: inline-block;
   position: absolute;
   top: 3em;
-  right: 8em;
+  right: 20%;
 }
 
 .cloud-02 {
   display: inline-block;
   position: absolute;
   top: 8em;
-  left: 9em;
+  left: 25%;
 }
 
 .cloud-03 {
     display: inline-block;
     position: absolute;
     top: 16em;
-    right: 14em;
+    right: 10%;
   }
+
+  .cloud-04 {
+    display: inline-block;
+    position: absolute;
+    top: 10em;
+    left: 5%;
+  } 
