@@ -1,3 +1,49 @@
-body {
-    background-color: blue;
+.div-01 {
+  height: 1em;
+  width: 10em;
+  display: block;
 }
+
+.div-02-mountain {
+    height: 10em;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: oldlace;
+}
+
+h1 {
+  margin: 0;
+}
+
+.heading {
+  display: inline-block;
+  height: 5em;
+  margin-top: 2em;
+}
+
+.cloud-01 {
+  display: inline-block;
+  position: absolute;
+  top: 3em;
+  right: 8em;
+}
+
+.cloud-02 {
+  display: inline-block;
+  position: absolute;
+  top: 8em;
+  left: 9em;
+}
+
+.cloud-03 {
+    display: inline-block;
+    position: absolute;
+    top: 16em;
+    right: 14em;
+  }
